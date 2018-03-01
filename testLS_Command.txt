@@ -1,4 +1,0 @@
-total 1
--rw-r--r-- 1 Administrator 197121 43 Feb 26 15:09 README.md
--rw-r--r-- 1 Administrator 197121  0 Feb 26 15:15 testLS_Command.txt
-Mon Feb 26 17:59:23 2018
